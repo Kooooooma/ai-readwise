@@ -1,0 +1,17 @@
+# Core dependencies
+pymupdf4llm
+marker-pdf
+markdown
+edge-tts
+pydub
+moviepy
+psutil
+
+# Web framework
+fastapi
+uvicorn[standard]
+pydantic
+
+# Translation (LLM)
+langchain-openai
+python-dotenv

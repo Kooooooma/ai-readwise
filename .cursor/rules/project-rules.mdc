@@ -1,0 +1,6 @@
+---
+description: "Global project rules for environment setup, code style, and file organization. This file references the shared AGENTS.md for actual rule content."
+alwaysApply: true
+---
+
+@AGENTS.md
