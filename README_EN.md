@@ -12,7 +12,7 @@ English | [简体中文](./README.md)
 
 **AI-Powered Intelligent Reading Tool - Convert PDF eBooks to Multilingual Markdown with AI Translation, Chapter Summarization, and Podcast Generation**
 
-[Quick Start](#-quick-start) • [Features](#-features) • [Live Demo](#) • [Documentation](#-development-guide)
+[Quick Start](#-quick-start) • [Features](#-features)
 
 </div>
 
